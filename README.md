@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The project consists of a  DIY Zigbee  IOT device which consists of 8 tactile push buttons which can be used to trigger automation. it uses a cc2530 Zigbee chip for  communication and also it is battery powered with a single cr2032. 
+The project consists of a  DIY Zigbee  IOT device which consists of 8 tactile push buttons which can be used to trigger automation. it uses a cc2530 Zigbee chip for  communication and also it is battery powered with a single cr2032. I work both with  Home Assistant ZHA and Zigbee2mqtt
 
 <h2>Essential Components</h2>
 
@@ -37,17 +37,15 @@ CC2530 Device Firmware [file](https://github.com/delta010/Zigbee-8-Button-Remote
 
 <p align="center">
  <br/>
-<img src="https://github.com/delta010/Zigbee-Energy-Monitor/assets/29528880/5a0b0df7-fcdf-4106-926f-9a0a39c8d6a9" />
+<img src="https://github.com/delta010/Zigbee-8-Button-Remote/assets/29528880/332f5af3-65e1-4bd1-a0b9-518436f0dfa5" />
 <br />
 
 
-<img src="https://github.com/delta010/Zigbee-Energy-Monitor/assets/29528880/def497b7-8cd3-48a2-bcf2-04cbe828027e"/>
+<img src="https://github.com/delta010/Zigbee-8-Button-Remote/assets/29528880/f2bc9e9e-bf71-4d7c-af63-444830fe5a1c"/>
 <br />
 <br />
 
-<img src="https://github.com/delta010/Zigbee-Energy-Monitor/assets/29528880/71855a93-a9ec-45e8-9b36-9bdfa8f40598"/>
 
-<img src="https://github.com/delta010/Zigbee-Energy-Monitor/assets/29528880/2e4d5bfa-cc3c-47b3-a0ea-4ea200192c8a"/>
 </p>
 
 <!--
