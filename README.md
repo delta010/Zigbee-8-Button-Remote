@@ -22,15 +22,13 @@ The project consists of a  DIY Zigbee  IOT device which consists of 8 tactile pu
 - <b>[Programing CC2530](https://blog.boris-wach.de/permalink/265)</b>
 
 
- <h2>PTVO firmware Configuration </h2>
+ <h2>firmware </h2>
 
-CC2530 Device Firmware [file]()
+CC2530 Device Firmware [file](https://github.com/delta010/Zigbee-8-Button-Remote/blob/main/8_button_FreePad.hex)
+
  
 
 <h2>Custom PCB Gerber</h2>
-
-
- If you are using my PCB design, for the ac power supply you need to solder the bridge and the PSU pads together and don't use ac and dc inputs at the same time also for dc power input you need to solder the battery jumper togoather 
   
    -  Gerber[File](https://github.com/delta010/Zigbee-Energy-Monitor/blob/main/zigbeepzem.zip)
  
