@@ -30,7 +30,7 @@ CC2530 Device Firmware [file](https://github.com/delta010/Zigbee-8-Button-Remote
 
 <h2>Custom PCB Gerber</h2>
   
-   -  Gerber[File](https://github.com/delta010/Zigbee-Energy-Monitor/blob/main/zigbeepzem.zip)
+   -  Gerber[File](https://github.com/delta010/Zigbee-8-Button-Remote/blob/main/zigbeeremote.zip)
  
 <h2>ScreenShots</h2> 
 
