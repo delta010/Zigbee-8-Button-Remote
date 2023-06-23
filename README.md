@@ -10,6 +10,7 @@ The project consists of a  DIY Zigbee  IOT device which consists of 8 tactile pu
 - <b>8 x Tactile Push Button Switch</b>
 - <b>20mm CR2032 Battery Button Cell Holder 2 Pin </b>
 - <b>CR2032 Battery</b>
+- <b>2 x 10k Resistor</b>
 
 
 
